@@ -2,6 +2,7 @@ build
 # testing
 /coverage
 
+app/node_modules
 # production
 /build
 
